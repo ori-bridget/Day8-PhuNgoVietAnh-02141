@@ -1,0 +1,5 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,xe con toi o lan di toi phia phai,added,Cold start bo sot than xe; them box om sat than xe va khong tinh vet sang den pha theo GUIDELINE_LABEL.md
+1,frame_0099.jpg,xe van sat mep duoi o giua anh,added,Cold start bo sot xe bi cat boi mep anh; chi khoanh phan than xe con nam trong anh theo GUIDELINE_LABEL.md
+1,frame_0392.jpg,xe con toi o lan di toi gan mep duoi,added,Than xe va cum den cho thay ro mot xe rieng; them box sat than xe theo GUIDELINE_LABEL.md
+1,frame_0392.jpg,xe con nho trong cum xe xa phia trai,added,Xe nho nhung phan than van nhan biet duoc; them mot box rieng, khong gop voi xe ke ben theo GUIDELINE_LABEL.md
